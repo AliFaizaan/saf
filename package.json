@@ -10,7 +10,7 @@
     "@mitre/hdf-converters": "^2.6.29",
     "@mitre/heimdall-lite": "^2.6.29",
     "@mitre/inspec-objects": "^0.0.18",
-    "@oclif/core": "^1.6.0",
+    "@oclif/core": "^2.0.8",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
     "@oclif/plugin-version": "^1",
